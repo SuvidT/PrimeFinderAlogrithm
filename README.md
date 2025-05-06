@@ -1,0 +1,1 @@
+This is a simple program to calcualte prime numbers
